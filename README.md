@@ -8,7 +8,7 @@ I am a Software Engineer with a civil Engineering background who is keen on solv
 <h2>About Me</h2>
  - I am based in the East coast, but interested to remote work anywhere in the US. <br>
  
- - 📄 View my resume <a href="https://docs.google.com/document/d/1Rvjpfg8zgIxBYha79ifh_fcPvdSDpmLU/edit?usp=drive_link&ouid=116684410929496186407&rtpof=true&sd=true">Here</a> <br>
+ - 📄 View my resume <b> <a href="https://drive.google.com/file/d/1qLLEWoptKaO6CHogXP0c_LZwOp4vYK6A/view?usp=drive_link">Dawit's Resume</a> <br> </b>
  
  - 🔭 I’m currently working on [perslib](https://perslib-dawitu.netlify.app) <br>
 
@@ -17,10 +17,7 @@ I am a Software Engineer with a civil Engineering background who is keen on solv
 
 <h2>Portfolio Link 🔗</h2>
 
-👨‍💻 All of my projects are available at<a href="https://dawit-tegegn-portfolio.netlify.app"> Dawit Tegegn's Portfolio </a> 
-
-
-
+- 👨‍💻 All of my projects are available at <b><a href="https://dawit-tegegn-portfolio.netlify.app"> Dawit Tegegn's Portfolio </a> </b>
 
 - 💬 Ask me about **react, python, Django, MongoDB, JavaScript, HTML, CSS**
 <h2>Contact Info</h2>
