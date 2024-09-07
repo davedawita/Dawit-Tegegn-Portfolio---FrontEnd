@@ -21,9 +21,9 @@ function Resume (props) {
 
   //define a function that will return the JSX needed once we get the data:
   const Loaded = () => {
-    return resume.map((resume) => (
+    return resume.map((cv) => (
       <div>
-        <a href={resume.resume}>
+        <a href={cv.resume}>
           <button>Resume</button>
         </a>
   
