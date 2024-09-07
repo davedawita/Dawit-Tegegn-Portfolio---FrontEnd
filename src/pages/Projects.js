@@ -23,10 +23,10 @@ function Projects(props) {
       <div>
         <h1>{project.name}</h1>
         <img src={project.image} />
-        <a href={project.git-front-end}>
+        <a href={project.gitFrontEnd}>
           <button>Github-Front-End</button>
         </a>
-        <a href={project.git-back-end}>
+        <a href={project.gitBackEnd}>
           <button>Github-Back-End</button>
         </a>
         <a href={project.live}>
