@@ -1,19 +1,33 @@
 # Dawit-Tegegn-Portfolio
-<h1 align="center">Hi 👋, I'm Dawit</h1>
-<h3 align="center">I am a Software Engineer with a civil Engineering background</h3>
-### Portfolio Link 🔗
-<a href="https://dawit-tegegn-portfolio.netlify.app"> Dawit Tegegn's Portfolio </a> 
+<h1>Hi 👋, I'm Dawit</h1>
+
+<h2>A Civil Engineer-Also-Software Engineer towards Re-inforced Digital Skills</h2>
+I am a Software Engineer with a civil Engineering background who is keen on solving complex problems. Drawing on my background in construction and engineering, I've cultivated a keen eye for detail and a methodical approach to fulfilling time-sensitive contractual obligations. I am a motivated self-starter and will bring solutions to problems. Also a construction/design professional with  more than 19 years of experience in a broad spectrum of highway construction/supervision & design.
 
 
-- 🔭 I’m currently working on [perslib](https://perslib-dawitu.netlify.app)
+<h2>About Me</h2>
+ - I am based in the East coast, but interested to remote work anywhere in the US. <br>
+ 
+ - 📄 View my resume <a href="https://docs.google.com/document/d/1Rvjpfg8zgIxBYha79ifh_fcPvdSDpmLU/edit?usp=drive_link&ouid=116684410929496186407&rtpof=true&sd=true">Here</a> <br>
+ 
+ - 🔭 I’m currently working on [perslib](https://perslib-dawitu.netlify.app) <br>
 
-- 👨‍💻 All of my projects are available at [https://dawit-tegegn-portfolio.netlify.app](https://dawit-tegegn-portfolio.netlify.app)
+ - 📝 I regularly write articles on [https://dawit-blog.netlify.app](https://dawit-blog.netlify.app)
 
-- 📝 I regularly write articles on [https://dawit-blog.netlify.app](https://dawit-blog.netlify.app)
 
-- 💬 Ask me about **react, python, Django, MongoDB, JavaScript, HTML, CSS, Django,**
+<h2>Portfolio Link 🔗</h2>
 
-- 📫 How to reach me **davedawita@yahoo.com, 301-693-1312**
+👨‍💻 All of my projects are available at<a href="https://dawit-tegegn-portfolio.netlify.app"> Dawit Tegegn's Portfolio </a> 
+
+
+
+
+- 💬 Ask me about **react, python, Django, MongoDB, JavaScript, HTML, CSS**
+<h2>Contact Info</h2>
+
+- 📫 How to reach me <br><br>
+   **Email: davedawita@yahoo.com, <br>
+     Mobile: 301-693-1312**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Rvjpfg8zgIxBYha79ifh_fcPvdSDpmLU/edit?usp=sharing&ouid=116684410929496186407&rtpof=true&sd=true](https://docs.google.com/document/d/1Rvjpfg8zgIxBYha79ifh_fcPvdSDpmLU/edit?usp=sharing&ouid=116684410929496186407&rtpof=true&sd=true)
 
@@ -30,3 +44,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davedawita&show_icons=true&locale=en&layout=compact" alt="davedawita" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davedawita&show_icons=true&locale=en" alt="davedawita" /></p>
+<details> 
+<summary>Instructions for My Portfolio:</summary>
+👉 In order to navigate to my portfolio page, click on the Welcome page image above. 
+ <br>
+👉 To see my projects, click on the "Projects" tab in the navigtaion bar and then click on each project to view. 
+ <br>
+👉 To access/download my resume, navigate to resume page and click the download button. 
+</details>
