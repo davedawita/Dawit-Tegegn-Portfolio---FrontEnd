@@ -24,6 +24,9 @@ function Header(props) {
         <Link to="/projects">
           <div>PROJECTS</div>
         </Link>
+        <Link to="/resume">
+          <div>RESUME</div>
+        </Link>
       </nav>
     </header>
   );
