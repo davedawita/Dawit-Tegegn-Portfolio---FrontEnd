@@ -1,6 +1,9 @@
 # Dawit-Tegegn-Portfolio
 <h1 align="center">Hi 👋, I'm Dawit</h1>
 <h3 align="center">I am a Software Engineer with a civil Engineering background</h3>
+### Portfolio Link 🔗
+<a href="https://dawit-tegegn-portfolio.netlify.app"> Dawit Tegegn's Portfolio </a> 
+
 
 - 🔭 I’m currently working on [perslib](https://perslib-dawitu.netlify.app)
 
