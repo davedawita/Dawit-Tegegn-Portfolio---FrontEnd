@@ -8,7 +8,7 @@ I am a Software Engineer with a civil Engineering background who is keen on solv
 <h2>About Me</h2>
  - I am based in the East coast, but interested to remote work anywhere in the US. <br>
  
- - 📄 View my resume <b> <a href="https://drive.google.com/file/d/1qLLEWoptKaO6CHogXP0c_LZwOp4vYK6A/view?usp=drive_link">Dawit's Resume</a> <br> </b>
+ - 📄 View my resume <b> <a href="https://docs.google.com/document/d/15YihIeJrmYOxdnBkwKoVoh2mog0w6dcT/edit?usp=drive_link&ouid=116684410929496186407&rtpof=true&sd=true">Dawit's Resume</a> <br> </b>
  
  - 🔭 I’m currently working on [perslib](https://perslib-dawitu.netlify.app) <br>
 
