@@ -29,8 +29,6 @@ I am a Software Engineer with a civil Engineering background who is keen on solv
    **Email: davedawita@yahoo.com, <br>
      Mobile: 301-693-1312**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Rvjpfg8zgIxBYha79ifh_fcPvdSDpmLU/edit?usp=sharing&ouid=116684410929496186407&rtpof=true&sd=true](https://docs.google.com/document/d/1Rvjpfg8zgIxBYha79ifh_fcPvdSDpmLU/edit?usp=sharing&ouid=116684410929496186407&rtpof=true&sd=true)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dawit03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dawit03" height="30" width="40" /></a>
