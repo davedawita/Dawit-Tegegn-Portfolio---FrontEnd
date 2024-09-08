@@ -25,9 +25,10 @@
 
 .homepage {
   font-family: "Nerko One", cursive;
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
   font-size: 35px;
+  color:rgb(24, 80, 148);
 }
 
 .note {
@@ -50,6 +51,7 @@
 .about {
   text-align: left;
   margin: 0 10px 330px 75px; 
+  color: rgb(21, 40, 99);
 }
 
 .resume {
@@ -64,20 +66,32 @@
 
 }
 
-.projectlist {
-  /* display:flex;
+.projectlist {  
+  display:flex;
   justify-content: space-between;
   flex-wrap:wrap;
-  margin: 0px 20px 0px 20px;  */
+  margin: 0px 5px 0px 5px; 
+  padding: 10px 50px 10px 10px;
+  /* display:inline; */
 }
 
 .projectimage {
-  /* width: fit-content; */
-  /* width:370px;
-  height: 370px; */
+  background-color:rgb(243, 243, 179);  
+  padding: 20px 20px 20px 20px;
+  border-radius: 15px;
+  width: 830px;
+  height:520px;  
+  margin: 20px 20px 10px 75px;  
 }
 
-
+.projlinks {
+  /* font-family: "Jacques Francois Shadow", serif; */
+  font-weight: 40;
+  /* font-style: normal; */
+  font-size: 15px;  
+  /* margin: 10px 0 0 0; */
+  padding: 5px 5px 5px 5px
+}
 
 
 
