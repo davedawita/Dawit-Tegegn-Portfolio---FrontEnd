@@ -5,15 +5,17 @@ function Header(props) {
   const navStyle = {
     display: "flex",
     justifyContent: "space-around",
-    border: "3px solid black",
-    padding: "8px",
+    border: "2px solid black",    
     width: "90%",
-    margin: "auto",
+    margin: "0 auto",
+    fontSize: "23px",
+    textDecoration: "none",
+    padding: "18px",
   };
 
   return (
     <header>
-      <h1>Dawit's Portfolio Page</h1>
+      {/* <h1>Dawit's Portfolio</h1> */}
       <nav style={navStyle}>
         <Link to="/">
           <div>HOME</div>

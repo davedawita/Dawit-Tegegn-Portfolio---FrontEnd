@@ -21,9 +21,9 @@ function Resume (props) {
 
   //define a function that will return the JSX needed once we get the data:
   const loaded = () => (
-    <div>      
-      <h1>Resume</h1>
-      <button><a href={resumes.resume} download="Dawit's Resume" target='_blank'>Download Resume</a></button>
+    <div className='homepage'>      
+      <h1 className="homepage">Resume</h1>
+      <button className="resume"><a href={resumes.resume} download="Dawit's Resume" target='_blank'>Download Resume</a></button>
         
     </div>
 

@@ -1,9 +1,94 @@
 .App {
   text-align: center;
+  background-color: rgb(148, 206, 198);
+  background-size: cover;
+  /* margin: 0; */
+  background-position: 50% 60%;
+  height: 100vh;
+  width: 100vw;
+  color: rgb(42, 40, 40);
+  
+  background-image: url(portfoliobackground-2.jpg);
+  font-family: "Jacques Francois Shadow", serif;
+  font-weight: 20;
+  font-style: normal;
+  /* font-size: 20px; */ 
+
 }
+
+.welcome {
+  font-family: "Jacques Francois Shadow", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+}
+
+.homepage {
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 35px;
+}
+
+.note {
+  font-family: "Nerko One", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 23px;
+}
+
+.aboutbody {
+  font-family: "Cantarell", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+  font-weight: 700;
+  display:flex;
+  justify-content: flex-start;
+}
+
+.about {
+  text-align: left;
+  margin: 0 10px 330px 75px; 
+}
+
+.resume {
+  font-family: "Jacques Francois Shadow", serif;
+  font-weight: 20;
+  font-style: normal;
+  font-size: 40px;
+  background-color: rgb(202, 30, 30);
+  border-radius: 15px;
+  box-shadow: 0cqmax;
+  margin: 60px 0 520px 0;
+
+}
+
+.projectlist {
+  /* display:flex;
+  justify-content: space-between;
+  flex-wrap:wrap;
+  margin: 0px 20px 0px 20px;  */
+}
+
+.projectimage {
+  /* width: fit-content; */
+  /* width:370px;
+  height: 370px; */
+}
+
+
+
+
+
+
+
 
 .profilepicture {
   height: 350px;
+  border-radius: 25px;
+  border-color: blue;
+  border-width: 50px;
 }
 
 
