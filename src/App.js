@@ -12,8 +12,8 @@ import Resume from "./pages/Resume";
 
 function App() {
   // URL should have YOUR HEROKU URL for your backend, make sure you include the trailing slash
-  const URL = "https://dawit-portfolio-8d6356d0c2c4.herokuapp.com/";
-  // const URL = "http://localhost:4000/";
+  // const URL = "https://dawit-portfolio-8d6356d0c2c4.herokuapp.com/";
+  const URL = "http://localhost:4000/";
 
   return (
     <div className="App">
@@ -22,7 +22,7 @@ function App() {
         <Route exact path="/" element={<Home/>}/>
         <Route exact path="/projects" element={<Projects URL={URL}/>}/>
         <Route exact path="/about" element={<About URL={URL}/>}/>
-        <Route exact path="/resume" element = {<Resume URL={URL}/>}/>
+        <Route exact path="/resume" element={<Resume URL={URL}/>}/>
       </Routes>
       <Footer />
     </div>
