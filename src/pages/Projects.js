@@ -25,7 +25,7 @@ function Projects(props) {
           <li>
             <div className="projectimage">
               <h1 className="welcome">Project Name: {project.name}</h1>
-                <img style={{ width: 700, height: 350 }} src={project.image} alt="image" />
+                <img className="image" style={{ width: 700, height: 350 }} src={project.image} alt="image" />
                   <div className="projlinks">
                     <a href={project.gitFrontEnd} target='_blank' >
                     <button className="linksbutton">Github-Front-End</button>
