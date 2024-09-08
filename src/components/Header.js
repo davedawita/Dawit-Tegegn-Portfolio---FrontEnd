@@ -2,21 +2,23 @@ import { Link } from "react-router-dom";
 
 function Header(props) {
   //inline style for the nav tag
-  const navStyle = {
-    display: "flex",
-    justifyContent: "space-around",
-    border: "2px solid black",    
-    width: "90%",
-    margin: "0 auto",
-    fontSize: "23px",
-    textDecoration: "none",
-    padding: "18px",
-  };
+  // const navStyle = {
+  //   display: "flex",
+  //   justifyContent: "space-around",
+  //   border: "3px solid beige",    
+  //   width: "90%",
+  //   margin: "0 auto",
+  //   fontSize: "23px",
+  //   textDecoration: "none",
+  //   backgroundColor: "#5DB3D5",
+  //   padding: "18px",
+  //   color: "white",
+  
+  // };
 
   return (
-    <header>
-      {/* <h1>Dawit's Portfolio</h1> */}
-      <nav style={navStyle}>
+    <header>      
+      <nav className="header">
         <Link to="/">
           <div>HOME</div>
         </Link>

@@ -5,13 +5,14 @@ function Footer(props) {
   const navStylefooter = {
     display: "flex",
     justifyContent: "space-around",
-    border: "2px solid beige",
+    border: "3px solid beige",
     padding: "18px",
     width: "90%",
     margin: "0 0 20px 73px",
-    fontSize: "23px",
+    fontSize: "27px",
     backgroundColor: "#EFC262",    
     textColor: "white",
+    // textDecoration: "none",
     
   };
 

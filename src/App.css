@@ -1,18 +1,40 @@
 .App {
   text-align: center;
-  background-color: rgb(148, 206, 198);
   background-size: cover;
-  /* margin: 0; */
-  background-position: 50% 60%;
-  height: 100vh;
+  margin: 0 auto;
+  /* background-position: 50% 60%; */
+  /* height: 200vh; */
   width: 100vw;
-  color: rgb(42, 40, 40);
+  color: rgb(41, 42, 40);
   
   background-image: url(portfoliobackground-2.jpg);
   font-family: "Jacques Francois Shadow", serif;
-  font-weight: 20;
-  font-style: normal;
-  /* font-size: 20px; */ 
+  padding: 10px;
+  
+}
+
+.header {
+  display: flex;
+  justify-content: space-around;
+  border: "3px solid beige";    
+  width: 90%;
+  margin: 0 auto;
+  font-size: 23px;
+  text-decoration: none;
+  background-color: rgb(139, 234, 237);
+  border-color: rgb(26, 24, 24);
+  padding: 18px;
+  color: black;
+}
+
+.profilepicture {
+  height: 350px;
+  border-radius: 25px;
+  border-color: blue;
+  border-width: 50px;
+
+  animation: zoomIn 2s ease-in-out;
+  /* animation: spin 0.6s ease-in-out; */
 
 }
 
@@ -21,6 +43,7 @@
   font-weight: 400;
   font-style: normal;
   font-size: 30px;
+  animation: slideDown 2s ease-in-out;
 }
 
 .homepage {
@@ -29,6 +52,8 @@
   font-style: normal;
   font-size: 35px;
   color:rgb(24, 80, 148);
+  margin: 27px;
+  animation: slideUp 2s ease-in-out;
 }
 
 .note {
@@ -36,6 +61,7 @@
   font-weight: 400;
   font-style: normal;
   font-size: 23px;
+  color:rgb(107, 183, 31);
 }
 
 .aboutbody {
@@ -66,44 +92,103 @@
 
 }
 
-.projectlist {  
-  display:flex;
-  justify-content: space-between;
-  flex-wrap:wrap;
-  margin: 0px 5px 0px 5px; 
-  padding: 10px 50px 10px 10px;
-  /* display:inline; */
+.projectlist {
+  list-style: none;  
+  /* display: flexbox; */
+  
+  grid-area: proj;
+  display: flexbox;
+  /* flex-wrap: wrap; */
+  justify-content: space-evenly;
+ 
+  animation: zoomIn 2s ease-in-out;
+  
+  
+  /* flex-direction: row; */ 
+  display: inline-block;
+  /* margin: 0px 5px 0px 5px;  */
+  padding: 10px 50px 10px 10px;  
 }
 
 .projectimage {
   background-color:rgb(243, 243, 179);  
   padding: 20px 20px 20px 20px;
   border-radius: 15px;
-  width: 830px;
-  height:520px;  
+  width: 750px;
+  height:480px;  
   margin: 20px 20px 10px 75px;  
 }
 
 .projlinks {
-  /* font-family: "Jacques Francois Shadow", serif; */
-  font-weight: 40;
-  /* font-style: normal; */
+  display: flex;
+  justify-content: space-evenly;
   font-size: 15px;  
-  /* margin: 10px 0 0 0; */
-  padding: 5px 5px 5px 5px
+  margin: 10px 0 0 0;  
+  animation: slideUp 2s ease-in-out;
 }
 
-
-
-
-
+.linksbutton {
+  font-family: "Jacques Francois Shadow", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  /* background-color: rgb(202, 30, 30); */
+  border-radius: 15px;
+  box-shadow: 0cqmax;
+  margin: 5px 0 0 0;
+}
 
 .profilepicture {
-  height: 350px;
-  border-radius: 25px;
-  border-color: blue;
-  border-width: 50px;
+  
+  /* position: relative; */
+  
+} 
+
+@keyframes slideDown {
+  0% {
+    transform: translateY(-50px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
 }
+
+@keyframes slideUp {
+  0% {
+    transform: translateY(50px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes zoomIn {
+  0% {
+    transform: scale(0.5);
+    opacity: 0;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+/* @keyframes spin {
+  0% {
+    transform: rotate(0 deg);
+    opacity: 0;
+  }
+  100% {
+    transform: rotate(360deg);
+    opacity: 1;
+  }
+} */
+
+
 
 
 
@@ -131,13 +216,6 @@
 
 .App-link {
   color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 } */
+
+
