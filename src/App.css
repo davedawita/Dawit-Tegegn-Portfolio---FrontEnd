@@ -120,6 +120,10 @@
   height:480px;  
   margin: 20px 20px 10px 75px;  
 }
+.image {
+  width: 700px;
+  height: 350px;
+}
 
 .projlinks {
   display: flex;
@@ -184,7 +188,7 @@
     
     justify-content: space-around;
     border: "3px solid beige";    
-    width: 70%;
+    width: 74%;
     margin: 0 5px 0 5px;
     font-size: 13px;
     padding: 22px;  
@@ -196,7 +200,7 @@
     justify-content: space-around;
     border: "3px solid beige";
     padding: 18px;
-    width: 80%;
+    width: 74%;
     margin:0 5px 0 5px;
     font-size: 20px;
     background-color:#EFC262;    
@@ -210,10 +214,9 @@
   }
   
   .welcome {  
-    display:flex;
-      
-    font-size: 25px;
-    margin: 10px 30px 10px 30px;
+    display:flex;      
+    font-size: 15px;
+    margin: 2px 30px 10px 2px;
   }
   
   .homepage {
@@ -232,10 +235,11 @@
     font-size: 13px;
     display:flex;
     justify-content: flex-start; 
+    
   }
   
   .about {    
-    margin: 0 10px 330px 75px; 
+    margin: 0 80px 330px 15px; 
        
   }
   
@@ -255,9 +259,9 @@
   .projectimage {     
     padding: 20px 20px 20px 20px;
     border-radius: 15px;
-    width: 750px;
-    height:480px;  
-    margin: 20px 20px 10px 75px;  
+    width: 300px;
+    height: 210px;  
+    margin: 20px 10px 10px 0;  
   }
   .image {
     width: 300px;
@@ -274,7 +278,7 @@
   
   .linksbutton {   
     font-weight: 400;   
-    font-size: 18px;   
+    font-size: 10px;   
     border-radius: 15px;
     box-shadow: 0cqmax;
     margin: 5px 0 0 0;
